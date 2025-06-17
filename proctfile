@@ -1,1 +1,1 @@
-web: gunicorn myste.wsgi:application
+web: gunicorn django-polls.wsgi:application
