@@ -1,1 +1,1 @@
-web: gunicorn django-polls.wsgi:application
+web: gunicorn mysite.wsgi:application
